@@ -1,0 +1,27 @@
+{
+    "title": "S2D2: Select To / Delete To",
+    "name": "S2D2: Select To / Delete To",
+    "description": "Select to / Delete to the start or the end of a line or a specified position by a character or a regexp. It can also change the direction of selection or trim selection.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": "Michal Jeřábek (https://github.com/michaljerabek)",
+    "url": "https://mjerebek.cz",
+    "homepage": "https://github.com/michaljerabek/S2D2",
+    "engines": {
+        "brackets": ">=2.0.0"
+    },
+    "categories": "edit",
+    "keywords": [
+        "phcode", 
+        "Phoenix", 
+        "extension", 
+        "text", 
+        "edit", 
+        "delete", 
+        "select"
+    ],
+    "files": [
+        "main.js"
+    ]
+}
+
